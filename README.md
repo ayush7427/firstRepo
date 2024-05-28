@@ -1,3 +1,3 @@
 # firstRepo
 demo <br>
-author: Ayush
+author: Ayush Rana
